@@ -1,8 +1,3 @@
-<style>
-    * {
-      color: red  
-    }
-</style>
 <section>
     <img height="400" width="100%" src="./assets/imgs/mountains.jpg"/>
     <div style="text-align: center">
