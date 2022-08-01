@@ -1,6 +1,3 @@
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="github-markdown.css">
-<style></style>
 <section>
     <img height="400" width="100%" src="./assets/imgs/mountains.jpg"/>
     <div align="center">
