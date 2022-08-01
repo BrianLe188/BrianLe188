@@ -1,5 +1,10 @@
+<style>
+    * {
+      color: red  
+    }
+</style>
 <section>
-    <img style="height: 400px; width: 100%" src="./assets/imgs/mountains.jpg"/>
+    <img height="400" width="100%" src="./assets/imgs/mountains.jpg"/>
     <div style="text-align: center">
         <h1 style="font-size: 30px">Hi there, I'm <b>Viet Anh Le</b>.</h1>
         <ul style="list-style: none; font-size: 16px; padding: 0">
