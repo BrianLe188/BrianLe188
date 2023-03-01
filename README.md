@@ -1,5 +1,5 @@
-<img width="100%" height="400" src="./assets/imgs/mountains.jpg"/>
-<h1 align="center">Hi there, I'm <b>Viet Anh Le</b></h1>
+<img width="100%" height="400" src="./assets/imgs/university_team.jpg"/>
+<h1 align="center">Hi there, I'm <b>Viet Anh Le</b></h1>    
 
 - Currently, I'm student at Duy Tan University.
 - Majoring in Software Engineering.
@@ -40,19 +40,17 @@
     </br>
     </br>
     <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
     <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-    <img width=40 src="./assets/imgs/cdnlogo.com_prisma.svg">
     <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
     </br>
     </br>
-    <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />      
+    <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />     
     <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>   
     <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
     <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
     </br>
     </br>
-    <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
     <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> 
     <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 </div>
