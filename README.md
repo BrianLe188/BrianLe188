@@ -3,7 +3,7 @@
 
 - Currently, I'm student at Duy Tan University.
 - Majoring in Software Engineering.
-- I'm learning and working in both Front-end and Back-end.
+- fullstack web developer.
 
 </br>
 
