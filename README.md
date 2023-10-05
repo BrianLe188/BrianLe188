@@ -60,8 +60,8 @@
 ## My Stats:
 
 <div align=center>
-    <img src="https://github-readme-stats.vercel.app/api?username=VietAnh188&show_icons=true&theme=tokyonight" alt="Github stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=BrianLe188&show_icons=true&theme=tokyonight" alt="Github stats"/>
     </br>
     </br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VietAnh188&langs_count=5"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianLe188&langs_count=5"/>
 </div>
