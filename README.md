@@ -53,6 +53,9 @@
     </br>
     <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> 
     <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+    </br>
+    </br>
+    <img width=50 src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor" />
 </div>
 
 </br>
