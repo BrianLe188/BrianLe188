@@ -12,11 +12,6 @@
     </a>
 </div>
 <br></br>
-<div align=center>
-    <a href=https://www.codewars.com/users/VietAnh188>
-        <img src=https://www.codewars.com/users/VietAnh188/badges/large/>
-    </a>
-</div>
 
 </br>
 
