@@ -1,12 +1,3 @@
-<img width="100%" height="400" src="./assets/imgs/university_team.jpg"/>
-<h1 align="center">Hi there, I'm <b>Viet Anh Le</b></h1>    
-
-- Currently, I'm student at Duy Tan University.
-- Majoring in Software Engineering.
-- Fullstack web developer.
-
-</br>
-
 ## Contacts: 
 
 <div align="center">
