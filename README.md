@@ -1,4 +1,8 @@
-## Contacts: 
+<div align="center">
+  <img src="./assets/imgs/cat.jpg" alt="cat" height="50%" width="50%"/>
+</div>
+
+## Contacts:
 
 <div align="center">
     <a href=https://www.facebook.com/profile.php?id=100009701613657 target="_blank">
