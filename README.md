@@ -47,7 +47,7 @@ I'm a passionate **software developer** with a keen interest in building impactf
             <img src=https://img.shields.io/badge/VietAnh188-%2300acee.svg?color=afb3ba&style=for-the-badge&logo=github&logoColor=white alt=github/>
     </a>
     <a href=https://portfolio-vietanhle.vercel.app>
-            <img src=https://img.shields.io/badge/VietAnh188-%2300acee.svg?color=afb3ba&style=for-the-badge&logo=explore&logoColor=white alt=explore/>
+            <img src=https://img.shields.io/badge/VietAnh188-%2300acee.svg?color=1fb2bb&style=for-the-badge&logo=website&logoColor=white alt=explore/>
     </a>
 </div>
 
