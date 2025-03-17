@@ -1,5 +1,7 @@
 # Hi there, I'm Brian Le! 👋 
 
+<img src="/assets/imgs/avatar.jpeg" alt="avatar" style="width: 300px; height: 300px"/>
+
 
 ### Welcome to my GitHub profile
 
