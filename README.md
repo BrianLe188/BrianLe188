@@ -1,6 +1,8 @@
 # Hi there, I'm Brian Le! 👋 
 
-<img src="/assets/imgs/avatar.jpeg" alt="avatar" style="width: 300px; height: 300px"/>
+<div style="display: flex; justify-content: center; width: 100%;">
+    <img src="/assets/imgs/nobita.png" alt="nobita" style="width: 300px; height: 300px"/>
+</div>
 
 
 ### Welcome to my GitHub profile
@@ -74,5 +76,10 @@ Check out my live portfolio here: [portfolio-vietanhle.vercel.app](https://portf
 
 ### ✨ Fun Fact
 > "Code is like humor. When you have to explain it, it’s bad."
+> Like this:
+<div style="display: flex; gap: 10px;">
+    <img src="/assets/imgs/Screenshot 2025-05-29 at 11.00.29.png" alt="doraemon"/>
+    <img src="/assets/imgs/83e4fa3cedd6f92e30ceb6d16c20135b_240x240.jpg" alt="doraemon"/>
+</div>
 
 Thanks for visiting my profile! Feel free to explore my repositories and connect with me to collaborate on exciting projects!
