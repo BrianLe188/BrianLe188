@@ -1,4 +1,5 @@
 # Hi there, I'm Brian Le! 👋 
+I am a person who wants to start up my own product so all repos are private, if you are interested I will tell you about them. Very interested.
 
 <div style="display: flex; justify-content: center; width: 100%;">
     <img src="/assets/imgs/nobita.png" alt="nobita" style="width: 300px; height: 300px"/>
