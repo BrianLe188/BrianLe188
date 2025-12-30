@@ -1,20 +1,19 @@
 # Hi there, I'm Brian Le! 👋 
-I am a person who wants to start up my own product so all repos are private, if you are interested I will tell you about them. Very interested.
+I am a person who wants to start up my own product, if you are interested I will tell you about them. Very interested.
 
 ### Welcome to my GitHub profile
 
 I'm a dedicated **software developer** with a passion for crafting impactful and innovative solutions. My journey in technology has been fueled by a deep curiosity and an unrelenting drive to create meaningful digital experiences. I thrive on optimizing systems for efficiency and enjoy applying my creativity to solve complex problems. Whether it's building seamless web applications, designing user-friendly interfaces, or brainstorming new ways to enhance functionality, I strive to deliver solutions that are not only effective but also elegant.
 
-Check out my live portfolio here: [portfolio-vietanhle.vercel.app](https://portfolio-vietanhle.vercel.app/)
+Check out my live portfolio here (UPDATING): [portfolio-vietanhle.vercel.app](https://portfolio-vietanhle.vercel.app/) 
 
 ---
 
 ## 🎨 About Me
 
-- 📊 **Role**: Software Developer
-- 📝 **Experience**: Web Development, Mobile Apps, and Software Engineering
+- 📝 **Experience**: Web Development
 - 🌐 **Focus Areas**: Frontend & Backend Development, Clean Code, Scalable Solutions
-- 🎮 **Interests**: Exploring Game Development, Open Source Contribution
+- 🎮 **Interests**: Source Contribution
 
 ---
 
@@ -32,7 +31,6 @@ Check out my live portfolio here: [portfolio-vietanhle.vercel.app](https://portf
 ## ✨ What I'm Currently Working On
 
 - Developing **full-stack web applications** with modern frameworks.
-- Exploring the potential of **game development** as a creative outlet.
 - Contributing to **open source projects** to support the tech community.
 
 ---
