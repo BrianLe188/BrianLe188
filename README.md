@@ -3,7 +3,7 @@
 
 I am a passionate software developer focused on building impactful, scalable digital products. My expertise spans robust backend systems and intuitive, high-performance frontend experiences — with a strong drive to turn innovative ideas into production-ready solutions.
 
-[🌐 Explore My Portfolio](https://portfolio-vietanhle.vercel.app/) | [💼 LinkedIn](https://www.linkedin.com/in/viet-anh-le-033b29227/)
+[🌐 Explore My Portfolio](https://selflearning-pgo1.onrender.com/about) | [💼 LinkedIn](https://www.linkedin.com/in/viet-anh-le-033b29227/)
 
 ---
 
@@ -33,6 +33,7 @@ I am a passionate software developer focused on building impactful, scalable dig
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Cloud-Amazon_AWS-blue?logo=amazonaws&style=for-the-badge&logoColor=white" alt="AWS" />
 </p>
 
 ---
